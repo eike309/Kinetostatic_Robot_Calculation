@@ -1,4 +1,3 @@
-<img width="1659" height="898" alt="grafik" src="https://github.com/user-attachments/assets/fd2b1bdd-f694-4853-a237-a363a904e814" /># Kinetostatic_Robot_Calculation
 Created as final project for the course "Machine Design Process" by Professor Jingshan Zhao. Part of the engineering double degree master program at Tsinghua University.
 Calculation of Kinetostatics of a simplificated robotic system in 2D (like a robotic arm or finger).
 Via a GUI the lengths and angles between the links of a robotic finger/arm can be entered as well as 2d load at the robots end.
